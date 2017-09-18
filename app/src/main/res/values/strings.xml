@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Laboratorio02</string>
+    <string name="et_titulo">Pedi tu comida!!!</string>
+    <string name="tgb_deliveryMesa_on">RESERVAR MESA</string>
+    <string name="tgb_deliveryMesa_off">DELIVERY</string>
+    <string name="tv_seleccionUsuario">Seleccione el horario</string>
+    <string name="sw_notificarReserva">Notificar reserva 1 hora antes</string>
+    <string name="tv_pedido_hint">Información del pedido</string>
+    <string name="rb_plato">Plato</string>
+    <string name="rb_bebida">Bebida</string>
+    <string name="rb_postre">Postre</string>
+    <string name="btn_agregar">AGREGAR</string>
+    <string name="btn_confirmarPedido">CONFIRMAR PEDIDO</string>
+    <string name="btn_reiniciar">REINICIAR</string>
+    <string name="tv_nombreCliente">Nombre del Cliente</string>
+    <string name="tv_email">Email</string>
+    <string name="btn_pagar">PAGAR PEDIDO</string>
+    <string name="et_nombre_pago">Nombre</string>
+    <string name="et_numero_pago">Numero de Tarjeta</string>
+    <string name="et_numSeg_pago">Numero de Seguridad</string>
+    <string name="btn_confirmar_pago">Confirmar</string>
+    <string name="btn_cancelar_pago">Cancelar</string>
+    <string name="et_fechaVenc_pago">mm/yy</string>
+</resources>
